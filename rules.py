@@ -1,2 +1,5 @@
+"""Contains rules for karabiner"""
+
+
 def main():
-    pass
+    """main"""
